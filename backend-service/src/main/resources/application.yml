@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: backend-app
+server:
+    port: 8081
